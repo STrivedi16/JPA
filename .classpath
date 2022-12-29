@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/avro-1.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/aws-v4-signer-java-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/commons-compress-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/elasticsearch-rest-client-5.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/elasticsearch-rest-client-sniffer-5.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-core-5.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-search-backend-jgroups-5.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-search-backend-jms-5.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-search-elasticsearch-5.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-search-elasticsearch-aws-5.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-search-engine-5.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-search-orm-5.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/hibernate-search-serialization-avro-5.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/httpasyncclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/httpcore-nio-4.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jackson-core-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jboss-jms-api_2.0_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jgroups-3.6.12.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/lucene-analyzers-common-5.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/lucene-core-5.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/lucene-queryparser-5.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/tika-core-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/tika-parsers-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/mysql-connector-java-5.1.14-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
