@@ -9,7 +9,7 @@ public class employee {
 	private int id;
 	private String name;
 	private String city;
-	@OneToOne
+	@OneToOne 		//Unidireactional
 	private emp salary;
 	
 	@Override

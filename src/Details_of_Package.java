@@ -9,5 +9,8 @@ public class Details_of_Package {
 	 * Employee Program - One to One Mapping 
 	 * Passenger program - General
 	 * Student program - one to Many
+	 * Employee And Project - Many to Many
+	 * 
+	 * 
 	 */
 }
